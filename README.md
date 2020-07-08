@@ -1,6 +1,6 @@
 # diabetes-ML
 A machine learning model for the diagnosis of diabetes mellitus, using logistic regression. 
-Database made available from the National Institute of Diabetes.
+Dataset made available from the National Institute of Diabetes.
 
 Two versions of the model are available:
 
